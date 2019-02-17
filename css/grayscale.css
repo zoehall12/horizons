@@ -191,6 +191,10 @@
   }
 }
 
+.projects-section .featured-text-right {
+  padding: 2rem;
+}
+
 @media (min-width: 992px) {
   .projects-section .featured-text-right {
     padding: 0 0 0 2rem;
