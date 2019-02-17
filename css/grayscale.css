@@ -193,6 +193,7 @@
 
 .projects-section .featured-text-right {
   padding: 2rem;
+  margin-right: 2rem;
 }
 
 @media (min-width: 992px) {
