@@ -42,7 +42,7 @@
     .nav-link {
       transition: none;
       padding: 2rem 1.5rem;
-      color: fade-out($primary, .5);
+      color: $primary;
       &:hover {
         color: fade-out($primary, .25);
       }
