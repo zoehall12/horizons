@@ -311,6 +311,11 @@ a:focus, a:hover {
   color: #64a19d !important;
 }
 
+.text-bg-primary {
+  color: #64a19d !important;
+  -webkit-text-fill-color: transparent;
+}
+
 footer {
   padding: 5rem 0;
 }
